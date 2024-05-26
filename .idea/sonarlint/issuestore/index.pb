@@ -1,0 +1,23 @@
+
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+]
+-app/src/main/java/com/kit/jrm/MainActivity.kt,7/4/7417ebe469d30e39fe6fde5fbb20872f608f99ab
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+I
+gradle/libs.versions.toml,d/7/d7595319a0658be6f1ed500ad590d42e4b28bc4f
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+g
+7app/src/main/java/com/kit/jrm/camerax/GraphicOverlay.kt,0/1/01fd73e8021eff458f2a8d55d783d1ae015721a6
+f
+6app/src/main/java/com/kit/jrm/camerax/CameraManager.kt,9/4/94cac264d2a6374f2aa58ea86087116721852d54
+}
+Mapp/src/main/java/com/kit/jrm/face_detection/FaceContourDetectionProcessor.kt,6/6/666f85c6e014c200a7ddf33663e5e0ab5f391e74
+j
+:app/src/main/java/com/kit/jrm/camerax/BaseImageAnalyzer.kt,e/c/ecc1ab4d1e9476c91e04f78bbe0191afc82bd373
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+q
+Aapp/src/main/java/com/kit/jrm/camerax/FaceDetactionSurfaceView.kt,b/0/b0637cc5b28528e59eb0dd262405abb7b72542f4
